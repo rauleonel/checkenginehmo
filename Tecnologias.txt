@@ -1,3 +1,0 @@
-Javascript
-CSS3
-HTML5
